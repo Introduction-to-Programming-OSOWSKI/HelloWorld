@@ -1,17 +1,20 @@
-# **Assignment Title**  
+# **Hello World**  
 
 ## **Assignment Description**  
-
+Create a method called helloWorld() that returns the String "Hello World!".
 
 ## **Examples**  
->
+>helloWorld()  
+Hello World!
 
 ## **Limitations**  
+1 method
 
 ## **Hints**  
+The return type is String
 
 ## **Concepts**  
-
+Mehtods, String
 
 ---
 
