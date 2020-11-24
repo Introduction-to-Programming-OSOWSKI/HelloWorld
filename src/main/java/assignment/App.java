@@ -6,5 +6,9 @@ public class App {
 		
     }
 
+    public static String helloWorld(){
+        return "Hello World";
+    }
+
 }
 
