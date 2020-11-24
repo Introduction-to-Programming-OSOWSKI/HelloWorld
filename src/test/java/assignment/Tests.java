@@ -13,15 +13,15 @@ import org.junit.jupiter.api.Test;
 public class Tests {
 
     @Test
-    public void test() {
+    public void code() {
         App.main(null);
         assertEquals("Hello World!", App.helloWorld(), "INCCORECT");
     }
 
     @Test
-    public void testTime() {
+    public void late() {
         App.main(null);
-        assertTrue(DueDate.onTime(2020, 11, 24), "Submitted Late");
+        assertTrue(DueDate.onTime(2020, 12, 15), "Submitted Late");
     }
 
 }
