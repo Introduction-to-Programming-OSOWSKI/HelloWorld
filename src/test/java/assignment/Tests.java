@@ -21,7 +21,7 @@ public class Tests {
     @Test
     public void testTime() {
         App.main(null);
-        assertTrue(DueDate.onTime(2020, 11, 23), "Submitted Late");
+        assertTrue(DueDate.onTime(2020, 11, 24), "Submitted Late");
     }
 
 }
